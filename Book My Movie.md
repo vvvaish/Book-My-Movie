@@ -7,7 +7,7 @@
 3. Statistics
 4. Show Booked Tickets User Info
 
- Descrition of action performed by each option.
+## Descrition of action performed by each option.
  
 
 1. Show The Seats:- It shows virtual availability of seats. It show 'S' for vacant seat and 'B' for Booked seat.
