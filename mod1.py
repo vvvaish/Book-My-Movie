@@ -110,7 +110,7 @@ class operations:
 
     def show_BookedTicketUser_info(self):
         a = int(input('Enter Row Number: '))
-        b = int(input('Enter Row Number: '))
+        b = int(input('Enter Column Number: '))
         print('\n')
         l = ['Name:','Gender:','Age:','Ticket Price:','Phone Number:']
         if str(a)+str(b) not in self.dict:
