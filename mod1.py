@@ -120,6 +120,7 @@ class operations:
             if i == str(a)+str(b):
                 for j in self.dict[str(a)+str(b)]:
                     print(l[count], self.dict[str(a)+str(b)][j])
+                    count += 1
         print('\n')
 
 
